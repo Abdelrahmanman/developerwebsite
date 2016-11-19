@@ -1,0 +1,186 @@
+/* Start special framwork */
+.special-shadow{box-shadow: 0px 0px 10px 1px #e4e3eb ;padding: 20px;margin-top: 30px;margin-bottom: 30px}
+p{color: #999}
+.itop{color: #35AC9C}
+.image:hover{transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);transition: all .2s ease-in-out;-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out}
+/* End special framwork */
+/* navbar style */
+.navbar-default{border-radius: 0;background-color: rgba(53, 53, 53 , .7);border: 0}
+.navbar-brand{margin-left: 110px !important}
+.navbar-brand h4{transform: scale(.6);margin-top: -24px;    font-size: 41px;font-family: verdana;color: #696d9a;
+                 transform: scale(.6);margin-top: -24px;font-size: 85px;font-family: verdana;color: #00abff}
+.navbar-brand h4 span{color: #999;font-size: 20px;position: absolute;display: block}
+.navbar-brand h4 .span1{top: 40px;left: 64px; color: white}
+.navbar-brand h4 .span2{left: 64px;top: 58px; color: white}
+.navbar-right{margin-top: 21px;margin-right: 100px}
+.navbar-right li a{color: white !important;font-size: 15px}
+.navbar-right .active a{background-color: transparent !important;color: #fff!important;font-size: 17px;font-weight: bold;}
+.aboutbtn{margin-left: 63%}
+.carousel-caption .btn a{color: white}
+/* End nav */
+/*************************************************************************/
+/* start slider */
+video{width: 100%}
+.forxsscreen .btn{ text-shadow: none;background-color: transparent;border: 3px solid white;padding: 12px 20% 12px 20%;border-radius: 0;font-family: verdana;font-size: 17px;}
+.forxsscreen img{margin-top: 80px;margin-bottom: 80px;}
+.carousel-caption {right: 20%;left: 20%;padding-bottom: 30px;margin-bottom: 18%;}
+.carousel-caption h3{font-size: 25px;font-family: verdana;line-height: 2;background-color: rgba(0, 0, 0, 0.6);padding: 21px}
+.carousel-caption .btn{text-shadow: none;background-color: transparent;border: 2px solid white;padding: 8px 42px 8px 42px;border-radius: 0;font-family: verdana;font-size: 17px;}
+/* End slider */
+/*******************************************************************/
+.bannerone{background-image: url(../images/notes-macbook-study-conference.jpg);background-attachment: fixed;-webkit-background-attachment: fixed;
+          -o-background-attachment: fixed;-moz-background-attachment: fixed; height: 100vh; background-size: cover}
+.bannerone .right h3{background-color: #002c3e;padding: 12px;color: white;font-size: 12px;font-family: verdana;margin-bottom: -18px;
+                     border-left: 2px solid #d02825; margin-right: -15px;cursor: pointer;transition: all .3s ease-in-out;
+                    -webkit-transition: all .3s ease-in-out;-moz-transition: all .3s ease-in-out;-o-transition: all .3s ease-in-out;-ms-transition: all .3s ease-in-out}
+.bannerone .right .h3one{width: 200px}
+.bannerone .right .h3two{width: 180px;float: right;background-color: #00384e}
+.bannerone .right .h3three{width: 160px;float: right}
+.bannerone .right .h3four{width: 140px;float: right;background-color: #00384e}
+.bannerone .right h3:hover{width: 200px}
+.clearfix{clear: both}
+.bannerone .right .one{ margin-right: 5px;width: 272px;display: none}
+.bannerone .right .two{ width: 252px;display: none}
+.bannerone .right .three{ margin-right: -36px;width: 232px;display: none}
+.bannerone .right .four{ margin-right: -56px;width: 212px;display: none}
+.bannerone span{color: #00a4e6;font-family: tahoma;margin-left: 280px;margin-top: 12px;position: absolute;font-size: 17px;width: 300px;background-color: rgba(6, 38, 51 ,.9);padding: 50px 36px 30px 28px;border-top: 1px solid;line-height: 1.9  }
+.bannertwo{overflow: hidden}
+.bannertwo img{margin-top: 85px;float: right;border-left: 4px solid #00abff;height: 445px;}
+.bannertwo h3 , .vision h3{margin-top: 25%;margin-left: 20%;font-family: verdana;color: #353851;margin-bottom: 10px;}
+.bannertwo p , .vision p{font-size: 16px;color: #999;margin-left: 24%;line-height: 1.7;font-family: tahoma;width: 65%;margin-bottom: 70px;}
+/*************************************************************************/
+/* start vision style */
+.vision{overflow: hidden}
+.vision img{width: 648.5px;border-right: 5px solid #00abff;}
+.vision h3{margin-top: 18%;}
+/* End vision style */
+/*************************************************************************/
+/* Start portfolio style */
+.port{background-image: url(../images/photo-1449247526693-aa049327be54.jpg);background-attachment: fixed; background-repeat: no-repeat; min-width: 100%; background-size: cover; margin-top: 25px; padding-bottom: 30px}
+.port-content{width: 76% ; margin: 0 auto; padding: 65px; background-color: rgba(0,0,0,.75555);transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out}
+.port h3{font-size: 34px;font-weight: bold;color: white;margin-top: 48px;font-family: verdana;}
+.port h4{line-height: 1.5}
+.port h5{color: white}
+.port img{margin-bottom: 10px; padding: 5px;border-radius: 10px}
+.port .row{padding-top: 50px}
+.btn-read{color: white;background-color: rgb(53, 172, 156);border: 0;padding: 5px 40px 5px 40px;border-radius: 5px;margin-top: 10px;
+          transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out
+         }
+.btn-read:hover{color: rgb(53, 172, 156); background-color: white}
+.port p{display: none;margin-top: 15px;color: rgb(239, 239, 239);line-height: 1.6}
+.port .h3visit {font-size: 16px;font-weight: bold;color: white;margin-top: 48px;font-family: verdana}
+/* End portfolio */
+/* ================================================================================== */
+/* strat about style */
+.about{min-width: 100%;margin-top: 20px;padding: 20px 0 70px 0}
+.about-content{width: 66%; margin: 0 auto}
+.about h3{font-size: 18px;font-weight: bold;color: #333;margin-top: 70px}
+.about p{line-height: 2;font-size: 16px;margin-top: 20px}
+.about .photo-me{border-radius: 10px}
+/* End about style */
+/* ================================================================================== */
+/* start contact style*/
+.contact{background-image: url(../images/macbook-577758_1920.jpg);background-attachment: fixed; background-repeat: no-repeat; min-width: 100%; background-size: cover;    padding: 20px 0 60px 0;voice-volume}
+.contact-content{background-color: rgba(0,0,0,.65555);padding: 20px 0 74px 0; clear:}
+.contact h3{margin-top: 70px; color: white ; font-size: 20px; margin-bottom: 30px}
+label{display: block;color: white}
+.contact input{width: 55%;padding: 20px;height: 42px; margin: 0 auto; display: block;background-color: #2C2C2E; border: 0; color: white;transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out}
+.contact input[name='message']{height: 93px; margin-bottom: 10px}
+.contact input{margin-bottom: 10px;transform: scale(.9);-webkit-transform: scale(.9);-moz-transform: scale(.9);-o-transform: scale(.9)}
+.contact input:focus{transform: scale(1);-webkit-transform: scale(1);-moz-transform: scale(1);-o-transform: scale(1)}
+.submit{line-height: 0;border-radius: 13px}
+.submit:hover{background-color: #35AC9C  }
+.contact input:first-child{box-shadow: 0px 0px 15px 0;border-radius: 10px}
+.content-p {margin-top: 30px;line-height: 2;color: white;font-size: 16px;background-color: rgba(63, 63, 63,.6);padding: 60px}
+/* End contact style */
+/* ================================================================================== */
+/* start gallary style */
+.gallary{width: 66%; margin: 0 auto; margin-bottom:60px}
+.gallary h3{font-size: 20px;font-weight: bold;margin-top: 50px;color: #555}
+.gallary ul{margin-top: 10px;margin-bottom: 100px}
+.gallary ul li{float: left;  color: #555;margin-bottom: 10px; cursor: pointer;background-color: white;box-shadow: 0px 1px 12px -1px;height: 34px;line-height: 34px;width: 130px;margin-left: 25px;text-align: center;font-size: 15px;font-weight: bold;
+              transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out}
+.gallary ul li:hover,.gallary ul li.active{background-color: #0AA05B;-webkit-transform: rotate(360deg);-moz-transform: rotate(360deg);transform: rotate(360deg);color: white}
+.gallary img{margin-top: 30px;border-bottom: 5px solid rgb(53, 172, 156)}
+.gallary img:hover{opacity: .8}
+.show-more{display: none}
+.btn-show{color: white;background-color: rgb(53, 172, 156);border: 0;padding: 5px 40px 5px 40px;border-radius: 5px;margin-top: 10px;
+          transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out}
+.btn-show:hover{border:1px solid rgb(53, 172, 156); color: rgb(53, 172, 156) ; background-color: white}
+.port p{display: none;margin-top: 15px;color: rgb(239, 239, 239);line-height: 1.6}
+/* end gallary style */
+/* ================================================================================== */
+/* start with footer */
+footer{background-image: url(../images/Learn-a-Programming-Language-Step-24.jpg);border-bottom: 3px solid rgb(53, 172, 156);padding: 50px;background-color: #353535;}
+footer h4{line-height: 3; color: white ; margin-top:50px; margin-bottom: 20px; padding: 70px 0 75px 0 }
+footer span{color: #fff;margin-left: 0;padding: 12px;}
+footer span span{color: white}
+footer hr{border-top: 1px solid #999}
+footer .social-media i{    font-size: 15px;background-color: white;padding: 9px}
+/* End footer style */
+/*************************************************************************/
+.career{background-image: url(../images/career.jpg);background-repeat: repeat-x;background-attachment: fixed;-webkit-background-attachment: fixed;-o-background-attachment: fixed;-moz-background-attachment: fixed;padding: 150px 0 150px 0;margin-top: -15px;z-index: 999999999999999999999999;display: block;position: relative;background-size: cover;}
+.career .content h3{color: white;font-size: 41px;font-family: verdana;padding: 10px;}
+.career .content h3 span{border-bottom: 1px solid #ff4242;border-top: 1px solid #ff4242}
+.career .content{background-color: rgba(19, 19, 19,.7);width: 50%;margin: 0 auto;padding: 39px;box-shadow: 7px 0px 11px -1px #042a4e;
+                transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out}
+.career .content:hover{border-radius: 0px 4% 0 4%}
+.career .content p{font-family: tahoma;width: 78%;margin: 0 auto;font-size: 16px;color: #ffffff;line-height: 2;padding-bottom: 15px}
+.career .content .btn{width: 38%;border-radius: 0;border: 0;background-color: #233d69;transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out
+}
+.career .content .btn:hover{background-color: transparent; border-top: 1px solid #fff; border-bottom: 1px solid #fff}
+/* End career style */
+/*****************************************************************************/
+/* contact style */
+.modal-content{background-color: #171d22; padding: 57px 0 66px 0}
+.modal-content h3{color: white;font-family: "proxima-nova", sans-serif;margin-bottom: 30px; font-size: 20px }
+.modal-content form{width: 40%;margin: 0 auto}
+.modal-content form input{ display: block;width: 360px;background-color: #171d22;border: 0;margin-bottom: 20px;box-shadow: 0px 0px 22px 1px #080808;padding: 8px 23px}
+.modal-content form .message{height: 150px}
+.modal-content form .submit{color: white;font-size: 15px}
+/* End career style */
+/*****************************************************************************/
+/* Start about */
+#about img{height: 75px}
+#about h3{color: white}
+#about .me{position: relative}
+#about .me img{height: 75px;position: relative;float: left;padding-right: 23px}
+#about .me h3{font-size: 24px;font-family: "proxima-nova", sans-serif}
+#about .me h3 span{border-bottom: 1px solid #222f39; padding-bottom: 6px}
+#about .me p{ font-size: 17px;margin-top: 21px;font-family: tahoma;color: #4f718e;line-height: 2}
+/* End about */
+.service .content{border: 1px solid #eee;padding: 60px;width: 100%;margin: 13px auto;margin-bottom: 19px;height: 0200px;
+                  transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;-moz-transition: all .5s ease-in-out;-o-transition: all .5s ease-in-out;-ms-transition: all .5s ease-in-out;transform: scale(.8);-moz-transform: scale(.8);-o-transform: scale(.8);-webkit-transform: scale(.8);-ms-transform: scale(.8);
+                  }
+.service .active{transform: scale(1); -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1); -o-transform: scale(1);border-color: #00abff;
+                  border-width: 2px;box-shadow: 0px 4px 3px 0px #00abff;}
+.service .content:hover{transform: scale(1); -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1); -o-transform: scale(1);}
+.service .content h3{ font-size: 16px;font-family: verdana;color: #444;}
+.fa{    color: #00abff;font-size: 44px;}
+/*****************************************************************************/
+.skills{
+    padding: 84px 0 60px 0;
+    box-shadow: none;
+    width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+}
+.skills h3{    font-size: 48px;
+    color: #00547d;
+    font-family: verdana}
+.skills h4{margin-left: 45px}
+.skills .fa{font-size: 90px}
+.skills p{margin-left: 30px}
+
+
+.row {margin-right: 0px;margin-left: -15px}
+
+
+@media (min-width:956px) AND (max-width:995px) {
+  .navbar-brand{display: none}
+}
